@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menyelamatkan Hutan</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .content {
+            padding: 20px;
+        }
+        .article-image {
+            width: 100%;
+            height: auto;
+        }
+        .author-info img {
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+        }
+        .footer {
+            background-color: #137c73;
+            color: #fff;
+            padding: 20px 0;
+        }
+
+        .footer a {
+            color: #fff;
+        }
+        .div  media author-info{
+            background-color: aquamarine;
+        }
+        .{
+           border: 1px solid black; 
+           border-radius: 0.5px;
+
+        }
+        .div container {
+            background-color: aquamarine;
+        }
+           
+           
+    </style>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">BERTUMBUH programs </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="#">Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Tentang</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Kami Butuh Kamu</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Post</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Newsletter</a>
+            </li>
+        </ul>
+    </div>
+    
+</nav>
+<div class="container mt-5">
+    <div class="home box">
+        <div class="home">
+            <p >home/detail-artikel </p>
+        </div>
+
+<div class="container content">
+    <div class="row">
+        <div class="col-lg-8 mx-auto"><h6 bg="success">Hutan indo</h6>
+            
+            <h1 class="mt-4">Menyelamatkan Hutan Untuk Bumi yang Sehat dan Asri</h1>
+            <p class="lead"> Dimas Rizky M | 18 Jan 2022</p>
+            <hr>
+            <img class="article-image" src="Green Forest - Copy.jpg" alt="Forest Image">
+            <hr>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nemo doloribus, dolor voluptatum necessitatibus, exercitationem unde quis adipisci, nihil tempora consequuntur odio inventore? Nostrum eligendi ut repellat quis, perferendis totam laudantium!</p>
+            <h5>Lorem ipsum dolor sit, amet consectetur </h5>
+            <p>commodonunc.Feugiat Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis obcaecati architecto aut ratione voluptatibus quibusdam beatae doloremque, commodi, adipisci possimus, vero sint voluptatem facere hic minus fuga consequuntur ad quo.
+            </p>
+            Amet aliquet at a aliquam ac suspendisse eulismad .Lectus sit in ut erat in.Et nulla a magna amet,amet .Sodales malesuada laoreet bibendum neque
+            amet turpis non.Ac arcu lacus turipis elementum imprediet.Euismod purus, libero scelerisque vitae,libero fermentum urna,nunc.
+            
+            <hr>
+            <h5>Lorem ipsum dolor sit, amet consectetur </h5>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Neque cumque recusandae nesciunt maxime minima ipsum laudantium corrupti rerum corporis sint in id numquam velit, excepturi odit tempore aspernatur, eaque quod.</p><hr>
+            <p>sit amet consectetur adipisicing elit. Et deleniti magni temporibus expedita iste sapiente possimus quo facere consectetur fuga molestiae quos, quam soluta reprehenderit blanditiis labore sint delectus minima.</p></p> 
+            <hr>
+            <p>Ametaliquet at a aliquam ac dolor, sit amet consectetur adipisicing elit. Consequuntur esse ad eveniet? Voluptas eum, deserunt enim, consequatur temporibus consequuntur eos a tenetur, illum veritatis deleniti cupiditate soluta facilis aliquid adipisci.</p>
+            <h4>Baca Juga</h4>
+            <ul>
+                <img src="mountain.webp" alt="pro" height=80 weight=50> <a href="#">Kegiatan Naik Gunung Ciremai bersama Bertumbuh<p>10 December 2021</p>
+                    <h6>BERTUMBUH</h6></a><hr>
+                <hr>
+                <img src="ff.jpg" alt="img"  height=80 weight=50><a href="#">  Kenali Pengertian, Fungsi dan Jenis hutan <p>1 januari 2022 </p>
+                    <div class="media author-info"><h6>Hutan</h6></a><hr>
+                <img src="profile2.png" class="mr-3" alt="Author Image" bg="success">
+                <div class="media-body">
+                    <h5 class="mt-0" >Ditulis Oleh Dimas Rizky M</h5>
+                    <h6>Dimas, seorang UX/UI designer dan React frontend Dev</6> <h6>Tertarik belajar tentang ...</h6>
+                        
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <h5>POSTS</h5>
+                <p>Berita</p>
+                <p>Event</p>
+                <p>Blog</p>
+            </div>
+            <div class="col-md-4">
+                <h5>Programs</h5>
+                <p>Jelajah Bersama</p>
+                <p>Tanam Pohon</p>
+                <p>Sosialisasi Hutan</p>
+            </div>
+            <div class="col-md-4">
+                <h5>Alamat</h5>
+                <p>Jl. Kh. Wahid Hasyim No.76, Cipeujeuh Wetan, Kec. Lemahabang, Kabupaten Cirebon, Jawa Barat, 45183</p>
+                <p>(0231) 635308</p>
+                <p>surat@smknlemahabang.sch.id</p>
+            </div>
+        </div>
+    </div>
+</footer>>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
+1:17 AM
