@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BERTUMBUH - Donation Form</title>
+    <link rel="stylesheet" href="style5.css">
+</head>
+<body>
+    <style>
+    .footer {
+        background-color: #007965;
+        color: #fff;
+        padding: 20px 0;
+        margin-top: 50px;
+    }
+    .footer h5 {
+        margin-bottom: 20px;
+    }
+</style>
+    <header>
+        <div class="navbar">
+            <span style="text-align: center;" class="logo">BERTUMBUH programs</span>
+            <nav>
+                <div class="box">
+                    <div class="home">
+                        <a href="tan">home/</a>
+                        <p>home/pendaftaran-dan-donasi</p>
+                    </div>
+                </div>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Kemitraan</a></li>
+                    <li><a href="#">Tentang</a></li>
+                    <li><a href="#">Kami Butuh Kamu</a></li>
+                    <li><a href="#">Post</a></li>
+                    <li><a href="#">Newsletter</a></li>
+                </ul>
+            </nav>
+            <button class="join-button">Bergabung</button>
+        </div>
+    </header>
+    <main>
+        <div class="form-container">
+            
+            <form>
+                <label for="donation-amount">Rp5.000.000,00</label>
+                <input type="text" id="donation-amount" name="donation-amount" disabled>
+                <label for="full-name">Nama Lengkap*</label>
+                <input type="text" id="full-name" name="full-name" required>
+                <label for="email">Alamat Email*</label>
+                <input type="email" id="email" name="email" required>
+                <button type="submit">Donasi</button>
+                <div class="payment-methods">
+                    <span>Pilih metode pembayaran:</span>
+                    <img src="ovo.png" alt="OVO">
+                    <img src="GoPay.png" alt="GoPay">
+                    <img src="BCA.png" alt="BCA">
+                    <img src="Bank-BRI.png" alt="Bank">
+                </div>
+               
+            </form>
+        </div>
+    </main>
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <h5>POSTS</h5>
+                    <p>Berita</p>
+                    <p>Event</p>
+                    <p>Blog</p>
+                </div>
+                <div class="col-md-4">
+                    <h5>Programs</h5>
+                    <p>Jelajah Bersama</p>
+                    <p>Tanam Pohon</p>
+                    <p>Sosialisasi Hutan</p>
+                </div>
+                <div class="col-md-4">
+                    <h5>Alamat</h5>
+                    <p>Jl. Kh. Wahid Hasyim No.76, Cipeujeuh Wetan, Kec. Lemahabang, Kabupaten Cirebon, Jawa Barat, 45183</p>
+                    <p>(0231) 635308</p>
+                    <p>surat@smknlemahabang.sch.id</p>
+                </div>
+            </div>
+        </div>
+    </footer>>
+    
+</body>
+</html>
