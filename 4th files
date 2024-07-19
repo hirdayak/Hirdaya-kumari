@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bertumbuh</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .hero-section {
+            text-align: center;
+            padding: 50px 0;
+            background-color: #f8f9fa;
+        }
+        .newsletter-section {
+            text-align: center;
+            padding: 50px 0;
+            background-color: #f1f1f1;
+        }
+        .footer {
+            background-color: #1aa58e;
+            color: #fff;
+            padding: 20px 0;
+            margin-top: 50px;
+        }
+        .footer h5 {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+
+<div class="hero-section">
+    <h2 style="color: #007965;">Menjadi Bagian Bertumbuh</h2>
+    <h1>Buat Hal Sederhana Jadi Lebih Bermakna</h1>
+    <p>Ciptakan setiap kegiatan jadi lebih bermakna dan bermanfaat untuk kita, dia dan semua</p>
+</div>
+
+
+<div class="container my-5">
+    <div class="row">
+        <div class="col-md-4">
+            <div class="card text-center">
+                <div class="card-body">
+                    <h5 class="card-title">Menjadi Donatur</h5>
+                    <p class="card-text">Anda dapat membantu dengan donasi, partisipasi program, peran serta dan banyak lagi.</p>
+                    <a href="#" class="btn btn-primary">Baca Selengkapnya</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card text-center">
+                <div class="card-body">
+                    <h5 class="card-title">Menjadi Relawan</h5>
+                    <p class="card-text">Kamu dapat membantu bertumbuh dengan langsung menanam pohon bersama bertumbuh, mengikuti pelatihan, dan program-program menarik lainnya.</p>
+                    <a href="#" class="btn btn-primary">Baca Selengkapnya</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card text-center">
+                <div class="card-body">
+                    <h5 class="card-title">Menjadi Pelajar</h5>
+                    <p class="card-text">Kamu akan belajar tentang cara menanam, merawat, panen pohon serta hal lainnya dengan bimbingan pelatihan dari bertumbuh.</p>
+                    <a href="#" class="btn btn-primary">Baca Selengkapnya</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="container my-5">
+    <h4 style="color: #007965;">Baca Tulisan Kami</h4>
+    <h3>Berita, Artikel & Event Terbaru</h3>
+    <p>Baca dan ikuti event serta program-program yang kami<br>
+    lakukan untuk bumi yang lebin baik</p>
+    <div class="row">
+        <div class="col-md-8">
+            <img src="ff.jpg" class="img-fluid" alt="Forest">
+            <h4>Selamatkan Hutan Untuk Bumi yang Sehat dan Asri</h4>
+            <p>Hutan lebih banyak memberi manfaat bagi kita semua. Bumi memberi data sekurang-kurangnya dan dunia terurama di dalam delosie ritual terancam. Untuk tidak menimbulkan kerusakan yang lebih parah kita harus mencegahnya dengan cara...</p>
+            <a href="#" class="btn btn-primary">Lihat Selengkapnya</a>
+        </div>
+        <div class="col-md-4">
+            <ul class="list-group">
+                <li class="list-group-item">
+                    <h5>Kenali Pengertian, Fungsi dan Jenis Hutan</h5>
+                    <small>1 Januari 2022</small>
+                    <img src="sm frost.webp" alt="frst" height="100" width="100">
+                </li>
+                <li class="list-group-item">
+                    <h5>Kegiatan Naik Gunung Ciremai bersama BERTUMBUH</h5>
+                    <small>10 Desember 2021</small>
+                    <img src="mountain.jpg"  alt="mountain"  height="100" width="100">
+                <li class="list-group-item">
+                    <h5>Program: Pelatihan Cara Menanam dan Merawat Pohon</h5>
+                    <small>9 Desember 2021</small>
+                    <img src="money plant.webp" alt="." height="100" width="100">
+                </li>
+                <li class="list-group-item">
+                    <h5>BERTUMBUH Menjadi Platform Peduli Bumi Terbaik Versi CCNN</h5>
+                    <small>1 Desember 2022</small>
+                    <img src="Green Forest - Copy.jpg" alt="" height="100" width="100">>>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="newsletter-section">
+    <h2>Subscribe Newsletter Kami</h2>
+    <p>Jangan sampai terlewat informasi serta berita dari kami. Subscribe sekarang!</p>
+    <form>
+        <input type="email" class="form-control" placeholder="Masukkan email aktif Anda">
+        <button type="submit" class="btn btn-primary mt-3">Subscribe</button>
+    </form>
+</div>
+
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <h5>POSTS</h5>
+                <p>Berita</p>
+                <p>Event</p>
+                <p>Blog</p>
+            </div>
+            <div class="col-md-4">
+                <h5>Programs</h5>
+                <p>Jelajah Bersama</p>
+                <p>Tanam Pohon</p>
+                <p>Sosialisasi Hutan</p>
+            </div>
+            <div class="col-md-4">
+                <h5>Alamat</h5>
+                <p>Jl. Kh. Wahid Hasyim No.76, Cipeujeuh Wetan, Kec. Lemahabang, Kabupaten Cirebon, Jawa Barat, 45183</p>
+                <p>(0231) 635308</p>
+                <p>surat@smknlemahabang.sch.id</p>
+            </div>
+        </div>
+    </div>
+</footer>>
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
