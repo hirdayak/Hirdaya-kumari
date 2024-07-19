@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+</head>
+<body>
+    <style>
+        div {
+          background-color: hsl(186, 28%, 93%);
+          text-align: center;
+          height: 300px;
+          width: 400px;
+        margin: auto;
+ 
+          .h1{
+            text-align: center;
+          }
+        }
+        </style>
+        <body>
+</style>  
+<div>      
+             <h1 style="color: hsl(170, 71%, 29%);">404</h1>
+         <h3>Upsss...Halaman Tidak Ada</h3>
+   <p>Mohon maaf,halaman yang anda buka tidak ditemukan <br> 
+        Pastikan url yang anda masukkan benar</p>
+
+        <button style="background-color: #359e8d;
+            color: #ffffff;" type="submit" class="btn btn-success btn-block">Homepage</button>
+            </div>
+      
+        <script src="js/bootstrap.bundle.min.js">
+
+        </script>   
+</body>
+</html>
