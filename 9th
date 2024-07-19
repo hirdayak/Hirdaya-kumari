@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title ><img src= "logo.png"  alt="logo" height=60 weight=50>Bertumbuh</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <style>
+    .footer {
+        background-color: #0e998d;
+        color: #fff;
+        padding: 20px 0;
+    }
+
+    .footer a {
+        color: #fff;
+    }
+    .div style{
+        weight:30;
+    }
+</style>            
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">BERTUMBUH</a><hr>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="container content">
+            <div class="row">
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ml-auto">
+                <li class="nav-item"><a class="nav-link" href="#">Home</a></li>
+                <li class="nav-item"><a class="nav-link" href="#">Kemitraan</a></li>
+                <li class="nav-item"><a class="nav-link" href="#">Tentang</a></li>
+                <li class="nav-item"><a class="nav-link" href="#">Kami Butuh Kamu</a></li>
+                <li class="nav-item"><a class="nav-link" href="#">Post</a></li>
+                <li class="nav-item"><a class="nav-link" href="#">Newsletter</a></li>
+            </ul>
+            <form class="form-inline">
+                <input class="form-control mr-sm-2" type="search" placeholder="Cari blog dan artikel disini..." aria-label="Search">
+                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Bergabung</button>
+            </form>
+            
+        </div>
+        
+    </nav>
+    <div style="background-color:#a7e7e7 ;">
+        <p >home/tentang-kami </p>
+    </div>
+    <h2 class="text-center">Tentang Kami</h2>
+
+    <div class="container mt-5">
+       
+        <!--<div class="card my-5">-->
+            <!--<div class="card-body">-->
+                <h5>Tentang BERTUMBUH</h5>
+                <p><img src= "logo.png"  alt="logo" height=60 weight=50> BERTUMBUH adalah arganisasl non-profit yang mempunyai Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, beatae tempora. Eveniet saepe excepturi reiciendis tempore accusantium est molestias dolores quisquam veniam quia suscipit amet nostrum porro magnam, distinctio rem Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem laborum, eum hic obcaecati et unde temporibus. Quo inventore temporibus tempore voluptatibus sint sit excepturi dolorem in! Dignissimos quaerat voluptate ut.</p>
+                <hr>
+               <p> Lewat penanaman dan Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam deserunt cum aliquam repudiandae dignissimos vero eos ipsa optio libero! Accusantium odio quisquam autem nobis eius assumenda voluptatibus eligendi dignissimos exercitationem.distinctio rem Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem laborum, eum hic obcaecati et unde temporibus. Quo inventore temporibus tempore voluptatibus sint sit excepturi dolorem in! Dignissimos quaerat voluptate ut.</p>
+               <hr>
+               <h5>Tentang Tim SKENSALA</h5><hr>
+              <p ><img src="smk.png" alt="smk" height=60 weight=50> Lewat penanaman dan Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam deserunt cum aliquam repudiandae dignissimos vero eos ipsa optio libero! Accusantium odio quisquam autem nobis eius assumenda voluptatibus eligendi dignissimos exercitationem.Lewat penanaman dan Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam deserunt cum aliquam repudiandae dignissimos vero eos ipsa optio libero! Accusantium odio quisquam autem nobis eius assumenda voluptatibus eligendi dignissimos exercitationem.<hr>
+                Aperiam deserunt cum aliquam repudiandae dignissimos vero eos ipsa optio libero! Accusantium odio quisquam autem nobis eius assumenda voluptatibus eligendi dignissimos exercitationem.Lewat penanaman dan Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aperiam deserunt cum aliquam repudiandae dignissimos vero eos ipsa optio libero! Accusantium odio quisquam autem nobis eius assumenda voluptatibus eligendi dignissimos exercitationem.<hr>
+                
+                <footer class="footer">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-4">
+                                <h5>POSTS</h5>
+                                <p>Berita</p>
+                                <p>Event</p>
+                                <p>Blog</p>
+                            </div>
+                            <div class="col-md-4">
+                                <h5>Programs</h5>
+                                <p>Jelajah Bersama</p>
+                                <p>Tanam Pohon</p>
+                                <p>Sosialisasi Hutan</p>
+                            </div>
+                            <div class="col-md-4">
+                                <h5>Alamat</h5>
+                                <p>Jl. Kh. Wahid Hasyim No.76, Cipeujeuh Wetan, Kec. Lemahabang, Kabupaten Cirebon, Jawa Barat, 45183</p>
+                                <p>(0231) 635308</p>
+                                <p>surat@smknlemahabang.sch.id</p>
+                            </div>
+                        </div>
+                    </div>
+                </footer>
