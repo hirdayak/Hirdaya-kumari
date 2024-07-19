@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bertumbuh</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+    
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">BERTUMBUH</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item"><a class="nav-link" href="#">Home</a></li>
+                <li class="nav-item"><a class="nav-link" href="#">Kemitraan</a></li>
+                <li class="nav-item"><a class="nav-link" href="#">Tentang</a></li>
+                <li class="nav-item"><a class="nav-link" href="#">Kami Butuh Kamu</a></li>
+                <li class="nav-item"><a class="nav-link" href="#">Post</a></li>
+                <li class="nav-item"><a class="nav-link" href="#">Newsletter</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <header class="hero text-center">
+        <div class="container">
+            <h1>Bersama Lindungi Bumi Kita Untuk Masa Depan</h1>
+            <p>Kami bermimpi untuk menanam lebih dari 10 juta pohon dan menciptakan dunia yang lebih indah dan asri untuk kita, dia, dan semua.</p>
+            <a href="#" class="btn btn-primary">Eksplorasi Bertumbuh</a>
+            <a href="#" class="btn btn-secondary">Lihat Video</a>
+         <img src="treec.jpg" alt="tree" width="600" height="350">
+        </div>
+    </header>
+
+   
+        <div class="container">
+        <h2>1.351.003 </h2>
+         <p ><img src="https://www.figma.com/design/hBwNVEhbeWpKdYeULlfNmd/BERTUMBUH---oraganizations-web-(Community)?node-id=1-2167&t=8SR5xT97BkKeFe5h-4" alt="leaf" width="100" height="100"> Pohon yang Tertanam</p>
+        </div>
+    </section>
+
+    <section class="about text-center">
+       
+        <div class="container">
+            <h2>BERTUMBUH - Save The World</h2>
+            <p BERTUMBUH adalah organisasi non-profit yang mempunyai tujuan untuk melindungi, menjaga, merawat, dan melestarikan pohon-pohon yang ada di bumi yang kita pijak sekarang.></p>
+            <img src="port.png" alt="port" height="150" width="150">
+
+            <a href="#" class="btn btn-primary">Lihat Selengkapnya</a>
+        </div>
+    </section>
+
+    <section class="call-to-action text-center">
+        <div class="container">
+            <img src="planting1.jpg" alt="." height="120" width="120"><img src="planting2.jpg"height="120" width="120">
+            <h2>Kenapa BERTUMBUH Butuh Kamu?</h2>
+            <h3> 15,3M</h3>     
+            <p>Pohon ditebang</p>  
+            <p>15,3 M pohon ditebang dan 14,7 ha hutan ditebang di dunia setiap tahunnya. Ini menyebabkan bumi tidak stabil dan kami mengajak kamu untuk bergabung dan meraih tujuan bersama.</p>
+            <a href="#" class="btn btn-primary">Gabung Bertumbuh</a>
+        </div>
+    </section>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
+Now
